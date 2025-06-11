@@ -26,3 +26,31 @@ think this may be the same phenomenon you saw when slicing out of bounds?
 
 **Solution:**
 **File:** `ex2indexing_and_slicing.py`
+
+#### 🧪 Exercise 3 – Indexing Slicing and Del
+
+> Define another list L with four items, and assign an empty
+list to one of its offsets (e.g., L[2]=[]). . What happens? 
+Then, assign an empty list to a slice (L[2:3]=[]). What happens now?
+The del statement deletes offsets, keys, attributes, and names. Use it on your list
+to delete an item (e.g., del L[0]). What happens if you delete an entire slice (del L[1:])?
+What happens when you assign a nonsequence to a slice (L[1:2]=1)?
+
+**Solution:**
+**File:** `ex3indexing_slicing_del.py`
+
+#### 🧪 Exercise 4 – Tuple Assignment
+
+> Type the following lines:
+```bash
+% python
+X = 'spam'
+Y = 'eggs'
+X, Y = Y, X
+```
+What do you think is happening to X and Y when you type this sequence?
+
+**Solution:**
+**File:** `ex4tuple_assignment.py`
+
+#### 🧪 Exercise 5 – Dictionary keys
