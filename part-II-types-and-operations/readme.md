@@ -93,3 +93,58 @@ D[(1,2,3)] = 'c'
 
 **Solution:**
 **File:** `ex6dictionary_indexing.py`
+
+#### 🧪 Exercise 7 – Generic Operations
+
+> Run interactive tests to answer the following questions:
+
+> What happens when you try to use the + operator on different/mixed types (e.g., string + list, list + tuple)?
+
+> Does + work when one of the operands is a dictionary?
+
+> Does the append method work for both lists and strings?
+> How about using the keys method on lists?
+> What does append assume about its subject object?
+
+> Finally, what type of object do you get back when you slice or concatenate two lists or two strings?
+
+**Solution:**
+**File:** `ex7generic_operations.py`
+
+#### 🧪 Exercise 8 – String Indexing
+
+> Define a string S of four characters: S = "spam". Then type the following expression: S[0][0][0][0][0]. Any clue as to what’s happening this time?
+
+>  Does this indexing expression still work if you apply it to a list such as ['s', 'p', 'a', 'm']? Why?
+
+**Solution:**
+**File:** 
+
+#### 🧪 Exercise 9 – Immutable Types
+
+> Define a string S of four characters again: S = "spam". Write an assignment that changes the string to "slam", using only slicing and concatenation. Could you perform the same operation using just indexing and concatenation? 
+
+> How about index assignment?
+
+**Solution:**
+**File:** 
+
+#### 🧪 Exercise 10 – Nesting
+
+> Write a data structure that represents your personal information: name (first, middle, last), age, job, address, email address, and phone number. You may build the data structure with any combination of built-in object types you like (lists,tuples, dictionaries, strings, numbers). Then, access the individual components of your data structures by indexing. Do some structures make more sense than others for this object?
+
+**Solution:**
+**File:** 
+
+#### 🧪 Exercise 11 – Files
+
+> Write a script that creates a new output file called myfile.txt and writes the string "Hello file world!" into it.
+
+> Then write another script that opens my file.txt and reads and prints its contents.
+
+> Run your two scripts from the system command line. Does the new file show up in the directory where you ran your scripts?
+
+> What if you add a different directory path to the filename passed to open?
+
+**Solution:**
+**File:** 
