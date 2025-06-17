@@ -118,7 +118,7 @@ D[(1,2,3)] = 'c'
 >  Does this indexing expression still work if you apply it to a list such as ['s', 'p', 'a', 'm']? Why?
 
 **Solution:**
-**File:** 
+**File:** `ex8string_indexing.py`
 
 #### 🧪 Exercise 9 – Immutable Types
 
@@ -127,7 +127,7 @@ D[(1,2,3)] = 'c'
 > How about index assignment?
 
 **Solution:**
-**File:** 
+**File:** `ex9immutable_types.py`
 
 #### 🧪 Exercise 10 – Nesting
 
