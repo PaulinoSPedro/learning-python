@@ -134,7 +134,7 @@ D[(1,2,3)] = 'c'
 > Write a data structure that represents your personal information: name (first, middle, last), age, job, address, email address, and phone number. You may build the data structure with any combination of built-in object types you like (lists,tuples, dictionaries, strings, numbers). Then, access the individual components of your data structures by indexing. Do some structures make more sense than others for this object?
 
 **Solution:**
-**File:** 
+**File:** `ex10nesting.py`
 
 #### 🧪 Exercise 11 – Files
 
@@ -147,4 +147,5 @@ D[(1,2,3)] = 'c'
 > What if you add a different directory path to the filename passed to open?
 
 **Solution:**
-**File:** 
+**File:** `ex11files.py`
+**File:** `ex11_2files.py`
